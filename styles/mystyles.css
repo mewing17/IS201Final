@@ -1,0 +1,15 @@
+/*h2 is on home page. It is the titles. .big bolds the employers on resume. 
+p is on about me and changes the font on all of them. I italicises the answer to the joke.*/
+h2 {
+    color: darkblue;
+}
+.big {
+    font-weight:bold;
+}
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 14px ;
+}
+.I {
+    font-style: italic;
+}

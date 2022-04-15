@@ -1,0 +1,27 @@
+.pages { 
+    float: right;
+}
+
+.Tableaumenu {
+    float: left;
+}
+.header {
+    border-top-style: double;
+    border-bottom: double;
+    padding-bottom: 22px;
+    padding-top: 2px;
+}
+.footer { 
+    bottom: 200px;
+    color: gray;
+    border-top: double;
+    text-align: center;
+}
+.mainbody {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: brown;
+}
+body {
+    background-color: bisque;
+}
